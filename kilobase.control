@@ -1,0 +1,5 @@
+comment = 'KiloBase'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/kilobase'
+relocatable = false
+superuser = false
